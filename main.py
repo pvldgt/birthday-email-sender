@@ -3,6 +3,7 @@ import pandas as pd
 import random
 import os
 import smtplib
+# create your own personal_data file with the my_email and _my_password variables
 from personal_data import my_email, my_password
 
 letter_to_send = ""
